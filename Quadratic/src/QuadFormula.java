@@ -1,4 +1,4 @@
-
+//Javadocs what
 //https://github.com/gabbley/Quadratic
 
 public class QuadFormula {
